@@ -5,10 +5,10 @@ We propose the **x-index**, a novel citation-based metric that conceptualizes ci
 
 Empirical analyses show that the x-index significantly improves the rankings of Turing Award recipients while reducing those of hyperprolific authors, better aligning rankings with recognized academic merit.
 
-**Dataset**
+# Dataset
 This project utilizes the **DBLP-Citation-network V18 dataset** from the Aminer Citation Network Dataset, a large-scale, disambiguated citation network covering the computer science literature. The full dataset contains over 6.7 million papers and 73.7 million citation links spanning up to July 2025.
 
-**Code Structure**
+# Code Structure
 *(Source code is currently being refactored and will be fully uploaded upon publication.)*
 - `src/`: Core Python scripts for data processing, distance computation, and statistical significance testing.
 - `data/`: Directory for the raw dataset and intermediate caching files.
