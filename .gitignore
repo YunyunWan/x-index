@@ -23,13 +23,12 @@ Thumbs.db
 # Ignore large raw datasets and generated cache dictionaries
 data/DBLP-Citation-network-V18.zip
 data/generate/
-data/collaboration/
-data/cite/
 data/index/
+data/Org/
 
 # Ignore local result outputs and statistical reports
 results/
 
 # Keep small target lists and institutional mapping data
-!data/targets/ta_name.xlsx
-!data/Org/2025QS.xlsx
+!data/ta_name.xlsx
+!data/2025QS.xlsx
