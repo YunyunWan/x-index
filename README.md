@@ -14,6 +14,5 @@ This project utilizes the **DBLP-Citation-network V18 dataset** from the Aminer 
 - `data/`: Directory for the raw dataset and intermediate caching files.
 - `results/`: Output directories for generated statistical analyses (e.g., Wilcoxon signed-rank tests) and plot data.
 
-**Reference**
-If you find this code or concept useful, please refer to our paper:
+
 
