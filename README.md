@@ -1,7 +1,7 @@
 # $x$-index
 Accurately evaluating scholarly influence is essential for fair academic assessment. However, traditional bibliometric indicators (e.g., $np$, $tc$, and the $h$-index) often favor hyperprolific authors over those with deeper, long-term impact. 
 
-We propose the **$x$-index**, a novel citation-based metric that conceptualizes citation as a process of knowledge diffusion. By weighting citations according to the collaborative proximity between citing and cited authors, the x-index captures both the depth and breadth of influence within evolving academic networks. 
+We propose the $x$-index, a novel citation-based metric that conceptualizes citation as a process of knowledge diffusion. By weighting citations according to the collaborative proximity between citing and cited authors, the x-index captures both the depth and breadth of influence within evolving academic networks. 
 
 Empirical analyses show that the x-index significantly improves the rankings of Turing Award recipients while reducing those of hyperprolific authors, better aligning rankings with recognized academic merit.
 
