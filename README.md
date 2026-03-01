@@ -13,6 +13,7 @@ This project utilizes the **[DBLP-Citation-network V18 dataset](https://www.amin
 - `src/`: Core Python scripts for data processing, distance computation, and statistical significance testing.
 - `data/`: Directory for the raw dataset and intermediate caching files.
 - `results/`: Output directories for generated statistical analyses (e.g., Wilcoxon signed-rank tests) and plot data.
-
-
-
+- 
+# Read the Paper
+A preprint of our manuscript detailing the theoretical foundation and full empirical results is available on arXiv:
+**[arXiv:2506.03527](http://arxiv.org/abs/2506.03527)** 
